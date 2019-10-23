@@ -1,3 +1,4 @@
+#Not my code, this was just to test the Markov Chain Python in-built library. Source of the setup and code goes to: http://dead-beef.tk/markovchain/
 from markovchain import JsonStorage
 from markovchain.text import MarkovText, ReplyMode
 
