@@ -136,4 +136,4 @@ for i in range(0, 100):
 	api.update_status(tweet)
 ##Line of code for adding an image with the tweet if wanted
 	#api.update_with_media('img/path', tweet)
-	time.sleep(15)
+	time.sleep(15) #Change time as needed 
