@@ -1,7 +1,7 @@
 #Author: Juliana Shihadeh
 #Computational Creativity Fall 2019
 #Twitter Bot Project
-#Tweets multiple lines of poetry with 2 hashtags
+#Tweets multiple lines of poetry with 1 hashtag
 import tweepy, time, sys
 import numpy as np
 
